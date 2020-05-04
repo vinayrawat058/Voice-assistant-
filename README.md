@@ -1,1 +1,1 @@
-# Voice-assistant-
+This voice assistant created in python just helps users perform various simple functions like opening google,youtube playing music from the directory and like sending email to him with an specific subject . This project uses various python libraries which makes  developing this project easy.  
